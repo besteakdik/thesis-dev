@@ -1,0 +1,19 @@
+# node
+node_modules/
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# hardhat
+artifacts/
+cache/
+
+# zkp build outputs
+zkp-circuits/output/
+
+# macos
+.DS_Store
