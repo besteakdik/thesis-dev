@@ -17,3 +17,6 @@ zkp-circuits/output/
 
 # macos
 .DS_Store
+deployed_addresses.json
+zkp-circuits/proof_log.json
+zkp-circuits/input.json
