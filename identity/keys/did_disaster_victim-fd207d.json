@@ -1,0 +1,6 @@
+{
+  "did": "did:disaster:victim-fd207d",
+  "role": "victim",
+  "private_key_hex": "ec7d94a1d7686a6ef8854ef7a8d19276689f275105f5ef881d5a9dedac3ee1a0",
+  "public_key_hex": "c603d4777f1841d0a138996cee0aaca85e4c323d067f87294ec4fa3bef7090fc"
+}
