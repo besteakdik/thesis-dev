@@ -20,3 +20,7 @@ zkp-circuits/output/
 deployed_addresses.json
 zkp-circuits/proof_log.json
 zkp-circuits/input.json
+
+# identity: generated keys and credentials (never commit private keys)
+identity/keys/
+identity/credentials/

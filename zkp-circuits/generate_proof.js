@@ -10,15 +10,37 @@
 
 const snarkjs = require("snarkjs");
 const fs = require("fs");
+const path = require("path");
 
 // dosya yolları
 const WASM_PATH = "output/disaster_verify_js/disaster_verify.wasm";
 const ZKEY_PATH = "output/disaster_verify.zkey";
 const VKEY_PATH = "output/verification_key.json";
 const LOG_PATH  = "proof_log.json";
+const CSV_PATH  = path.join(__dirname, "../data/synthetic/disaster_victims.csv");
+
+// yaş eşiği
+const MIN_AGE = 18;
+
+// injury_level'a göre dinamik ihtiyaç eşiği
+function needsThreshold(injuryLevel) {
+    const thresholds = { 0: 50, 1: 40, 2: 25, 3: 10 };
+    return thresholds[injuryLevel] ?? 30;
+}
 
 // public sinyal isimleri — snarkjs sıralı dizi üretiyor, biz isimlendiriyoruz
 const PUBLIC_SIGNAL_NAMES = ["is_eligible", "min_age", "needs_threshold", "commitment"];
+
+// CSV'den rastgele bir kayıt oku
+function randomVictimFromCSV() {
+    const raw   = fs.readFileSync(CSV_PATH, "utf8").trim().split("\n");
+    const header = raw[0].split(",");
+    const rows   = raw.slice(1);
+    const row    = rows[Math.floor(Math.random() * rows.length)].split(",");
+    const record = {};
+    header.forEach((h, i) => record[h.trim()] = row[i]?.trim());
+    return record;
+}
 
 async function generateAndVerify(victimId, inputs) {
     console.log(`\n[*] kanıt üretiliyor — ${victimId}`);
@@ -59,12 +81,23 @@ async function generateAndVerify(victimId, inputs) {
     return { proof, annotatedPublic, isValid };
 }
 
-// örnek: SYN-00001
-generateAndVerify("SYN-00001", {
-    age:             "45",
-    needs_score:     "75",
-    salt:            "12345",
-    min_age:         "18",
-    needs_threshold: "30",
-    commitment:      "12465",  // 45 + 75 + 12345
-}).catch(console.error);
+// CSV'den rastgele kayıt seç
+const victim = randomVictimFromCSV();
+const age          = parseInt(victim.age);
+const needs_score  = parseInt(victim.needs_score);
+const injury_level = parseInt(victim.injury_level);
+const threshold    = needsThreshold(injury_level);
+const salt         = Math.floor(Math.random() * 100000);
+const commitment   = age + needs_score + salt;
+
+console.log(`\n[*] seçilen kayıt: ${victim.victim_id}  (age ve score gizli kalacak)`);
+console.log(`    injury_level: ${injury_level}  →  needs_threshold: ${threshold}`);
+
+generateAndVerify(victim.victim_id, {
+    age:             String(age),
+    needs_score:     String(needs_score),
+    salt:            String(salt),
+    min_age:         String(MIN_AGE),
+    needs_threshold: String(threshold),
+    commitment:      String(commitment),
+}).then(() => process.exit(0)).catch(console.error);
