@@ -1,0 +1,6 @@
+{
+  "did": "did:disaster:authority-94359e",
+  "role": "authority",
+  "private_key_hex": "43a2799a47958ab52c7ba76f18e0d5e8cb7335e7c1511ad6c82ba46984b54694",
+  "public_key_hex": "0e90b99b9cbdf47f503e8596d6134575cdd0d368d8280a69fa8fa5ed0649ff82"
+}

@@ -1,0 +1,6 @@
+{
+  "did": "did:disaster:verifier-2cc69d",
+  "role": "verifier",
+  "private_key_hex": "febfb6cd9aaa780155fbff8d69c33677cbd730000c4cbc4db9fe2487eda7dea4",
+  "public_key_hex": "1facbbd671a3f158500f2b782af32b2428f8bf4e2dff1835b9d0e3d60c7c0d7b"
+}
