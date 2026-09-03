@@ -1,0 +1,4990 @@
+[
+  {
+    "victim_id": "SYN-00001",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 13.34
+  },
+  {
+    "victim_id": "SYN-00002",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.66
+  },
+  {
+    "victim_id": "SYN-00003",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00004",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.99
+  },
+  {
+    "victim_id": "SYN-00005",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.6
+  },
+  {
+    "victim_id": "SYN-00006",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.71
+  },
+  {
+    "victim_id": "SYN-00007",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.96
+  },
+  {
+    "victim_id": "SYN-00008",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.52
+  },
+  {
+    "victim_id": "SYN-00009",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.24
+  },
+  {
+    "victim_id": "SYN-00010",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00011",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.49
+  },
+  {
+    "victim_id": "SYN-00012",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00013",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 8.26
+  },
+  {
+    "victim_id": "SYN-00014",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.85
+  },
+  {
+    "victim_id": "SYN-00015",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00016",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00017",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00018",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.75
+  },
+  {
+    "victim_id": "SYN-00019",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00020",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.74
+  },
+  {
+    "victim_id": "SYN-00021",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00022",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.78
+  },
+  {
+    "victim_id": "SYN-00023",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00024",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00025",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00026",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.13
+  },
+  {
+    "victim_id": "SYN-00027",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.2
+  },
+  {
+    "victim_id": "SYN-00028",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.64
+  },
+  {
+    "victim_id": "SYN-00029",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00030",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.55
+  },
+  {
+    "victim_id": "SYN-00031",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00032",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.5
+  },
+  {
+    "victim_id": "SYN-00033",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.87
+  },
+  {
+    "victim_id": "SYN-00034",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00035",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.38
+  },
+  {
+    "victim_id": "SYN-00036",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00037",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.41
+  },
+  {
+    "victim_id": "SYN-00038",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.86
+  },
+  {
+    "victim_id": "SYN-00039",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.26
+  },
+  {
+    "victim_id": "SYN-00040",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00041",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00042",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00043",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00044",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00045",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00046",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.3
+  },
+  {
+    "victim_id": "SYN-00047",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.99
+  },
+  {
+    "victim_id": "SYN-00048",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00049",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.06
+  },
+  {
+    "victim_id": "SYN-00050",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00051",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00052",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.54
+  },
+  {
+    "victim_id": "SYN-00053",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00054",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00055",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.01
+  },
+  {
+    "victim_id": "SYN-00056",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00057",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00058",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 10.31
+  },
+  {
+    "victim_id": "SYN-00059",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 11.89
+  },
+  {
+    "victim_id": "SYN-00060",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.11
+  },
+  {
+    "victim_id": "SYN-00061",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00062",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00063",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00064",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00065",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 10.09
+  },
+  {
+    "victim_id": "SYN-00066",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00067",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00068",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.75
+  },
+  {
+    "victim_id": "SYN-00069",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00070",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00071",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00072",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.77
+  },
+  {
+    "victim_id": "SYN-00073",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00074",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.71
+  },
+  {
+    "victim_id": "SYN-00075",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00076",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00077",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00078",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.31
+  },
+  {
+    "victim_id": "SYN-00079",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.52
+  },
+  {
+    "victim_id": "SYN-00080",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00081",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00082",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.65
+  },
+  {
+    "victim_id": "SYN-00083",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.86
+  },
+  {
+    "victim_id": "SYN-00084",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00085",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00086",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00087",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00088",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00089",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00090",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.25
+  },
+  {
+    "victim_id": "SYN-00091",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.78
+  },
+  {
+    "victim_id": "SYN-00092",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00093",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00094",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.8
+  },
+  {
+    "victim_id": "SYN-00095",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.52
+  },
+  {
+    "victim_id": "SYN-00096",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.03
+  },
+  {
+    "victim_id": "SYN-00097",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.6
+  },
+  {
+    "victim_id": "SYN-00098",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00099",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00100",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.01
+  },
+  {
+    "victim_id": "SYN-00101",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.88
+  },
+  {
+    "victim_id": "SYN-00102",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00103",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.87
+  },
+  {
+    "victim_id": "SYN-00104",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00105",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 8.2
+  },
+  {
+    "victim_id": "SYN-00106",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00107",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00108",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00109",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00110",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00111",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00112",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00113",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 8.17
+  },
+  {
+    "victim_id": "SYN-00114",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00115",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00116",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00117",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.49
+  },
+  {
+    "victim_id": "SYN-00118",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00119",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00120",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00121",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.09
+  },
+  {
+    "victim_id": "SYN-00122",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00123",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00124",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.92
+  },
+  {
+    "victim_id": "SYN-00125",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00126",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00127",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 8.07
+  },
+  {
+    "victim_id": "SYN-00128",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00129",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00130",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.13
+  },
+  {
+    "victim_id": "SYN-00131",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00132",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.11
+  },
+  {
+    "victim_id": "SYN-00133",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00134",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.65
+  },
+  {
+    "victim_id": "SYN-00135",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.08
+  },
+  {
+    "victim_id": "SYN-00136",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.86
+  },
+  {
+    "victim_id": "SYN-00137",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00138",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.74
+  },
+  {
+    "victim_id": "SYN-00139",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00140",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.7
+  },
+  {
+    "victim_id": "SYN-00141",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.68
+  },
+  {
+    "victim_id": "SYN-00142",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00143",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.75
+  },
+  {
+    "victim_id": "SYN-00144",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00145",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.69
+  },
+  {
+    "victim_id": "SYN-00146",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.25
+  },
+  {
+    "victim_id": "SYN-00147",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00148",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00149",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.75
+  },
+  {
+    "victim_id": "SYN-00150",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00151",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.92
+  },
+  {
+    "victim_id": "SYN-00152",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.67
+  },
+  {
+    "victim_id": "SYN-00153",
+    "eligible": true,
+    "gas_used": 310478,
+    "tx_ms": 6.55
+  },
+  {
+    "victim_id": "SYN-00154",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.23
+  },
+  {
+    "victim_id": "SYN-00155",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.8
+  },
+  {
+    "victim_id": "SYN-00156",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00157",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00158",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 8.12
+  },
+  {
+    "victim_id": "SYN-00159",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00160",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00161",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00162",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.34
+  },
+  {
+    "victim_id": "SYN-00163",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00164",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.39
+  },
+  {
+    "victim_id": "SYN-00165",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00166",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00167",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00168",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00169",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.8
+  },
+  {
+    "victim_id": "SYN-00170",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00171",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.86
+  },
+  {
+    "victim_id": "SYN-00172",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.63
+  },
+  {
+    "victim_id": "SYN-00173",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00174",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00175",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00176",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00177",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00178",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.74
+  },
+  {
+    "victim_id": "SYN-00179",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.59
+  },
+  {
+    "victim_id": "SYN-00180",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.16
+  },
+  {
+    "victim_id": "SYN-00181",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00182",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00183",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.96
+  },
+  {
+    "victim_id": "SYN-00184",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00185",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.59
+  },
+  {
+    "victim_id": "SYN-00186",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00187",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.16
+  },
+  {
+    "victim_id": "SYN-00188",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00189",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.42
+  },
+  {
+    "victim_id": "SYN-00190",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.25
+  },
+  {
+    "victim_id": "SYN-00191",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00192",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00193",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 8.19
+  },
+  {
+    "victim_id": "SYN-00194",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.9
+  },
+  {
+    "victim_id": "SYN-00195",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00196",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00197",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00198",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.47
+  },
+  {
+    "victim_id": "SYN-00199",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00200",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00201",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00202",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.73
+  },
+  {
+    "victim_id": "SYN-00203",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.61
+  },
+  {
+    "victim_id": "SYN-00204",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.78
+  },
+  {
+    "victim_id": "SYN-00205",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.52
+  },
+  {
+    "victim_id": "SYN-00206",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00207",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00208",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.67
+  },
+  {
+    "victim_id": "SYN-00209",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00210",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00211",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.86
+  },
+  {
+    "victim_id": "SYN-00212",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00213",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00214",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00215",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00216",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.06
+  },
+  {
+    "victim_id": "SYN-00217",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.52
+  },
+  {
+    "victim_id": "SYN-00218",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.11
+  },
+  {
+    "victim_id": "SYN-00219",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00220",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.85
+  },
+  {
+    "victim_id": "SYN-00221",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00222",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00223",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00224",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00225",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00226",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00227",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.36
+  },
+  {
+    "victim_id": "SYN-00228",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00229",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.18
+  },
+  {
+    "victim_id": "SYN-00230",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.78
+  },
+  {
+    "victim_id": "SYN-00231",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00232",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.63
+  },
+  {
+    "victim_id": "SYN-00233",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.89
+  },
+  {
+    "victim_id": "SYN-00234",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.76
+  },
+  {
+    "victim_id": "SYN-00235",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.7
+  },
+  {
+    "victim_id": "SYN-00236",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.65
+  },
+  {
+    "victim_id": "SYN-00237",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.7
+  },
+  {
+    "victim_id": "SYN-00238",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.51
+  },
+  {
+    "victim_id": "SYN-00239",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00240",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.45
+  },
+  {
+    "victim_id": "SYN-00241",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00242",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00243",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00244",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.74
+  },
+  {
+    "victim_id": "SYN-00245",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00246",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00247",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00248",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.09
+  },
+  {
+    "victim_id": "SYN-00249",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00250",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00251",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00252",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.73
+  },
+  {
+    "victim_id": "SYN-00253",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.75
+  },
+  {
+    "victim_id": "SYN-00254",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00255",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00256",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 8.03
+  },
+  {
+    "victim_id": "SYN-00257",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00258",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00259",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.45
+  },
+  {
+    "victim_id": "SYN-00260",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 8.64
+  },
+  {
+    "victim_id": "SYN-00261",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.35
+  },
+  {
+    "victim_id": "SYN-00262",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00263",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00264",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00265",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00266",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.78
+  },
+  {
+    "victim_id": "SYN-00267",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00268",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00269",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00270",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00271",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00272",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.61
+  },
+  {
+    "victim_id": "SYN-00273",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.61
+  },
+  {
+    "victim_id": "SYN-00274",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00275",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.28
+  },
+  {
+    "victim_id": "SYN-00276",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.17
+  },
+  {
+    "victim_id": "SYN-00277",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.15
+  },
+  {
+    "victim_id": "SYN-00278",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00279",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00280",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.63
+  },
+  {
+    "victim_id": "SYN-00281",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00282",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00283",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00284",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.5
+  },
+  {
+    "victim_id": "SYN-00285",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00286",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.12
+  },
+  {
+    "victim_id": "SYN-00287",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.73
+  },
+  {
+    "victim_id": "SYN-00288",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00289",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00290",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00291",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.31
+  },
+  {
+    "victim_id": "SYN-00292",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.66
+  },
+  {
+    "victim_id": "SYN-00293",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.6
+  },
+  {
+    "victim_id": "SYN-00294",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00295",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00296",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00297",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.52
+  },
+  {
+    "victim_id": "SYN-00298",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.63
+  },
+  {
+    "victim_id": "SYN-00299",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00300",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.27
+  },
+  {
+    "victim_id": "SYN-00301",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00302",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.41
+  },
+  {
+    "victim_id": "SYN-00303",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.99
+  },
+  {
+    "victim_id": "SYN-00304",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.24
+  },
+  {
+    "victim_id": "SYN-00305",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00306",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00307",
+    "eligible": true,
+    "gas_used": 310478,
+    "tx_ms": 8.43
+  },
+  {
+    "victim_id": "SYN-00308",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.99
+  },
+  {
+    "victim_id": "SYN-00309",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.93
+  },
+  {
+    "victim_id": "SYN-00310",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.16
+  },
+  {
+    "victim_id": "SYN-00311",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.13
+  },
+  {
+    "victim_id": "SYN-00312",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00313",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00314",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.58
+  },
+  {
+    "victim_id": "SYN-00315",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.48
+  },
+  {
+    "victim_id": "SYN-00316",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.06
+  },
+  {
+    "victim_id": "SYN-00317",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00318",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.19
+  },
+  {
+    "victim_id": "SYN-00319",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00320",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00321",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.48
+  },
+  {
+    "victim_id": "SYN-00322",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00323",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00324",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00325",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00326",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00327",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00328",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00329",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00330",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.15
+  },
+  {
+    "victim_id": "SYN-00331",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.68
+  },
+  {
+    "victim_id": "SYN-00332",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00333",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.85
+  },
+  {
+    "victim_id": "SYN-00334",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00335",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.11
+  },
+  {
+    "victim_id": "SYN-00336",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.88
+  },
+  {
+    "victim_id": "SYN-00337",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.52
+  },
+  {
+    "victim_id": "SYN-00338",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.73
+  },
+  {
+    "victim_id": "SYN-00339",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.83
+  },
+  {
+    "victim_id": "SYN-00340",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.03
+  },
+  {
+    "victim_id": "SYN-00341",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00342",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.81
+  },
+  {
+    "victim_id": "SYN-00343",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.54
+  },
+  {
+    "victim_id": "SYN-00344",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.24
+  },
+  {
+    "victim_id": "SYN-00345",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.47
+  },
+  {
+    "victim_id": "SYN-00346",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.14
+  },
+  {
+    "victim_id": "SYN-00347",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.12
+  },
+  {
+    "victim_id": "SYN-00348",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00349",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00350",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00351",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.29
+  },
+  {
+    "victim_id": "SYN-00352",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00353",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.33
+  },
+  {
+    "victim_id": "SYN-00354",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00355",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.47
+  },
+  {
+    "victim_id": "SYN-00356",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00357",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00358",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00359",
+    "eligible": true,
+    "gas_used": 310478,
+    "tx_ms": 7.45
+  },
+  {
+    "victim_id": "SYN-00360",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00361",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00362",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00363",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00364",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 9.29
+  },
+  {
+    "victim_id": "SYN-00365",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.14
+  },
+  {
+    "victim_id": "SYN-00366",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00367",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.69
+  },
+  {
+    "victim_id": "SYN-00368",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.63
+  },
+  {
+    "victim_id": "SYN-00369",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00370",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00371",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.08
+  },
+  {
+    "victim_id": "SYN-00372",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00373",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00374",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.41
+  },
+  {
+    "victim_id": "SYN-00375",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00376",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00377",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00378",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00379",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00380",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00381",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00382",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.83
+  },
+  {
+    "victim_id": "SYN-00383",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.19
+  },
+  {
+    "victim_id": "SYN-00384",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00385",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00386",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.32
+  },
+  {
+    "victim_id": "SYN-00387",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.52
+  },
+  {
+    "victim_id": "SYN-00388",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00389",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.66
+  },
+  {
+    "victim_id": "SYN-00390",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.46
+  },
+  {
+    "victim_id": "SYN-00391",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7
+  },
+  {
+    "victim_id": "SYN-00392",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.62
+  },
+  {
+    "victim_id": "SYN-00393",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.52
+  },
+  {
+    "victim_id": "SYN-00394",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.57
+  },
+  {
+    "victim_id": "SYN-00395",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.73
+  },
+  {
+    "victim_id": "SYN-00396",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00397",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00398",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00399",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.31
+  },
+  {
+    "victim_id": "SYN-00400",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.22
+  },
+  {
+    "victim_id": "SYN-00401",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.6
+  },
+  {
+    "victim_id": "SYN-00402",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.14
+  },
+  {
+    "victim_id": "SYN-00403",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00404",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00405",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00406",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.39
+  },
+  {
+    "victim_id": "SYN-00407",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00408",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.17
+  },
+  {
+    "victim_id": "SYN-00409",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.16
+  },
+  {
+    "victim_id": "SYN-00410",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00411",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.86
+  },
+  {
+    "victim_id": "SYN-00412",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.44
+  },
+  {
+    "victim_id": "SYN-00413",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00414",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.91
+  },
+  {
+    "victim_id": "SYN-00415",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00416",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00417",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00418",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.65
+  },
+  {
+    "victim_id": "SYN-00419",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00420",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00421",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00422",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00423",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.42
+  },
+  {
+    "victim_id": "SYN-00424",
+    "eligible": true,
+    "gas_used": 310478,
+    "tx_ms": 5.82
+  },
+  {
+    "victim_id": "SYN-00425",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00426",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.11
+  },
+  {
+    "victim_id": "SYN-00427",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.68
+  },
+  {
+    "victim_id": "SYN-00428",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.11
+  },
+  {
+    "victim_id": "SYN-00429",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00430",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00431",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.89
+  },
+  {
+    "victim_id": "SYN-00432",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00433",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00434",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00435",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00436",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.91
+  },
+  {
+    "victim_id": "SYN-00437",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00438",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00439",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.66
+  },
+  {
+    "victim_id": "SYN-00440",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00441",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.95
+  },
+  {
+    "victim_id": "SYN-00442",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.67
+  },
+  {
+    "victim_id": "SYN-00443",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00444",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00445",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.76
+  },
+  {
+    "victim_id": "SYN-00446",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00447",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.13
+  },
+  {
+    "victim_id": "SYN-00448",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00449",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.21
+  },
+  {
+    "victim_id": "SYN-00450",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.02
+  },
+  {
+    "victim_id": "SYN-00451",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.26
+  },
+  {
+    "victim_id": "SYN-00452",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00453",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.83
+  },
+  {
+    "victim_id": "SYN-00454",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00455",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.82
+  },
+  {
+    "victim_id": "SYN-00456",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00457",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00458",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.01
+  },
+  {
+    "victim_id": "SYN-00459",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.93
+  },
+  {
+    "victim_id": "SYN-00460",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00461",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7
+  },
+  {
+    "victim_id": "SYN-00462",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00463",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00464",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.82
+  },
+  {
+    "victim_id": "SYN-00465",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.54
+  },
+  {
+    "victim_id": "SYN-00466",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.63
+  },
+  {
+    "victim_id": "SYN-00467",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.22
+  },
+  {
+    "victim_id": "SYN-00468",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00469",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00470",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.33
+  },
+  {
+    "victim_id": "SYN-00471",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.05
+  },
+  {
+    "victim_id": "SYN-00472",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00473",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00474",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00475",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00476",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.94
+  },
+  {
+    "victim_id": "SYN-00477",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.46
+  },
+  {
+    "victim_id": "SYN-00478",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00479",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.32
+  },
+  {
+    "victim_id": "SYN-00480",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.68
+  },
+  {
+    "victim_id": "SYN-00481",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00482",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 8.14
+  },
+  {
+    "victim_id": "SYN-00483",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00484",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00485",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00486",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.56
+  },
+  {
+    "victim_id": "SYN-00487",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00488",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.49
+  },
+  {
+    "victim_id": "SYN-00489",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.48
+  },
+  {
+    "victim_id": "SYN-00490",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00491",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00492",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00493",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.24
+  },
+  {
+    "victim_id": "SYN-00494",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.93
+  },
+  {
+    "victim_id": "SYN-00495",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.15
+  },
+  {
+    "victim_id": "SYN-00496",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00497",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.32
+  },
+  {
+    "victim_id": "SYN-00498",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.26
+  },
+  {
+    "victim_id": "SYN-00499",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.72
+  },
+  {
+    "victim_id": "SYN-00500",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00501",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00502",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00503",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00504",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.34
+  },
+  {
+    "victim_id": "SYN-00505",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.77
+  },
+  {
+    "victim_id": "SYN-00506",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00507",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.66
+  },
+  {
+    "victim_id": "SYN-00508",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00509",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00510",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.68
+  },
+  {
+    "victim_id": "SYN-00511",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00512",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00513",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00514",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.51
+  },
+  {
+    "victim_id": "SYN-00515",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.15
+  },
+  {
+    "victim_id": "SYN-00516",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00517",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.27
+  },
+  {
+    "victim_id": "SYN-00518",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00519",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.45
+  },
+  {
+    "victim_id": "SYN-00520",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00521",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.7
+  },
+  {
+    "victim_id": "SYN-00522",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.57
+  },
+  {
+    "victim_id": "SYN-00523",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.31
+  },
+  {
+    "victim_id": "SYN-00524",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00525",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00526",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.02
+  },
+  {
+    "victim_id": "SYN-00527",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00528",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00529",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00530",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.08
+  },
+  {
+    "victim_id": "SYN-00531",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00532",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.6
+  },
+  {
+    "victim_id": "SYN-00533",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.34
+  },
+  {
+    "victim_id": "SYN-00534",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.81
+  },
+  {
+    "victim_id": "SYN-00535",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 5.92
+  },
+  {
+    "victim_id": "SYN-00536",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.6
+  },
+  {
+    "victim_id": "SYN-00537",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.94
+  },
+  {
+    "victim_id": "SYN-00538",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.73
+  },
+  {
+    "victim_id": "SYN-00539",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.08
+  },
+  {
+    "victim_id": "SYN-00540",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.92
+  },
+  {
+    "victim_id": "SYN-00541",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.91
+  },
+  {
+    "victim_id": "SYN-00542",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00543",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00544",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.38
+  },
+  {
+    "victim_id": "SYN-00545",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.85
+  },
+  {
+    "victim_id": "SYN-00546",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00547",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00548",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00549",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00550",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.46
+  },
+  {
+    "victim_id": "SYN-00551",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00552",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.42
+  },
+  {
+    "victim_id": "SYN-00553",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.08
+  },
+  {
+    "victim_id": "SYN-00554",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.24
+  },
+  {
+    "victim_id": "SYN-00555",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00556",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00557",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.9
+  },
+  {
+    "victim_id": "SYN-00558",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00559",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.41
+  },
+  {
+    "victim_id": "SYN-00560",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.14
+  },
+  {
+    "victim_id": "SYN-00561",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00562",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00563",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00564",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00565",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.71
+  },
+  {
+    "victim_id": "SYN-00566",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.46
+  },
+  {
+    "victim_id": "SYN-00567",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00568",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00569",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.73
+  },
+  {
+    "victim_id": "SYN-00570",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.15
+  },
+  {
+    "victim_id": "SYN-00571",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.33
+  },
+  {
+    "victim_id": "SYN-00572",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.74
+  },
+  {
+    "victim_id": "SYN-00573",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00574",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.05
+  },
+  {
+    "victim_id": "SYN-00575",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.8
+  },
+  {
+    "victim_id": "SYN-00576",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.4
+  },
+  {
+    "victim_id": "SYN-00577",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.68
+  },
+  {
+    "victim_id": "SYN-00578",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00579",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.26
+  },
+  {
+    "victim_id": "SYN-00580",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00581",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.89
+  },
+  {
+    "victim_id": "SYN-00582",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.86
+  },
+  {
+    "victim_id": "SYN-00583",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00584",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00585",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00586",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00587",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00588",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.44
+  },
+  {
+    "victim_id": "SYN-00589",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00590",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.21
+  },
+  {
+    "victim_id": "SYN-00591",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.81
+  },
+  {
+    "victim_id": "SYN-00592",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00593",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.85
+  },
+  {
+    "victim_id": "SYN-00594",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00595",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00596",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00597",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.25
+  },
+  {
+    "victim_id": "SYN-00598",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.78
+  },
+  {
+    "victim_id": "SYN-00599",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00600",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00601",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 8.23
+  },
+  {
+    "victim_id": "SYN-00602",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.22
+  },
+  {
+    "victim_id": "SYN-00603",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.59
+  },
+  {
+    "victim_id": "SYN-00604",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.29
+  },
+  {
+    "victim_id": "SYN-00605",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.05
+  },
+  {
+    "victim_id": "SYN-00606",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00607",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.29
+  },
+  {
+    "victim_id": "SYN-00608",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00609",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00610",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00611",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00612",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.22
+  },
+  {
+    "victim_id": "SYN-00613",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00614",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00615",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.92
+  },
+  {
+    "victim_id": "SYN-00616",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00617",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00618",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.95
+  },
+  {
+    "victim_id": "SYN-00619",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00620",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 5.57
+  },
+  {
+    "victim_id": "SYN-00621",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00622",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00623",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00624",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00625",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00626",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.45
+  },
+  {
+    "victim_id": "SYN-00627",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.22
+  },
+  {
+    "victim_id": "SYN-00628",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00629",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00630",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 5.87
+  },
+  {
+    "victim_id": "SYN-00631",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00632",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.86
+  },
+  {
+    "victim_id": "SYN-00633",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00634",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00635",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00636",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00637",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00638",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.53
+  },
+  {
+    "victim_id": "SYN-00639",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00640",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.69
+  },
+  {
+    "victim_id": "SYN-00641",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00642",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.6
+  },
+  {
+    "victim_id": "SYN-00643",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 8.29
+  },
+  {
+    "victim_id": "SYN-00644",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.77
+  },
+  {
+    "victim_id": "SYN-00645",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.83
+  },
+  {
+    "victim_id": "SYN-00646",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00647",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00648",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.32
+  },
+  {
+    "victim_id": "SYN-00649",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00650",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00651",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.11
+  },
+  {
+    "victim_id": "SYN-00652",
+    "eligible": true,
+    "gas_used": 310478,
+    "tx_ms": 6.74
+  },
+  {
+    "victim_id": "SYN-00653",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00654",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.73
+  },
+  {
+    "victim_id": "SYN-00655",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.04
+  },
+  {
+    "victim_id": "SYN-00656",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.83
+  },
+  {
+    "victim_id": "SYN-00657",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.52
+  },
+  {
+    "victim_id": "SYN-00658",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00659",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00660",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.09
+  },
+  {
+    "victim_id": "SYN-00661",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.6
+  },
+  {
+    "victim_id": "SYN-00662",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00663",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.47
+  },
+  {
+    "victim_id": "SYN-00664",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.13
+  },
+  {
+    "victim_id": "SYN-00665",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.83
+  },
+  {
+    "victim_id": "SYN-00666",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.95
+  },
+  {
+    "victim_id": "SYN-00667",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00668",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00669",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00670",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.87
+  },
+  {
+    "victim_id": "SYN-00671",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.98
+  },
+  {
+    "victim_id": "SYN-00672",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.88
+  },
+  {
+    "victim_id": "SYN-00673",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.22
+  },
+  {
+    "victim_id": "SYN-00674",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.58
+  },
+  {
+    "victim_id": "SYN-00675",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00676",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.46
+  },
+  {
+    "victim_id": "SYN-00677",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.53
+  },
+  {
+    "victim_id": "SYN-00678",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00679",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00680",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00681",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00682",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00683",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00684",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00685",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00686",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.92
+  },
+  {
+    "victim_id": "SYN-00687",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00688",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00689",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.58
+  },
+  {
+    "victim_id": "SYN-00690",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.43
+  },
+  {
+    "victim_id": "SYN-00691",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00692",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00693",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.9
+  },
+  {
+    "victim_id": "SYN-00694",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00695",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00696",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.98
+  },
+  {
+    "victim_id": "SYN-00697",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.1
+  },
+  {
+    "victim_id": "SYN-00698",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00699",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00700",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.09
+  },
+  {
+    "victim_id": "SYN-00701",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.16
+  },
+  {
+    "victim_id": "SYN-00702",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00703",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.28
+  },
+  {
+    "victim_id": "SYN-00704",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.44
+  },
+  {
+    "victim_id": "SYN-00705",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.28
+  },
+  {
+    "victim_id": "SYN-00706",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00707",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.46
+  },
+  {
+    "victim_id": "SYN-00708",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.67
+  },
+  {
+    "victim_id": "SYN-00709",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.64
+  },
+  {
+    "victim_id": "SYN-00710",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.03
+  },
+  {
+    "victim_id": "SYN-00711",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00712",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.62
+  },
+  {
+    "victim_id": "SYN-00713",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.31
+  },
+  {
+    "victim_id": "SYN-00714",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.86
+  },
+  {
+    "victim_id": "SYN-00715",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.07
+  },
+  {
+    "victim_id": "SYN-00716",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.99
+  },
+  {
+    "victim_id": "SYN-00717",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.83
+  },
+  {
+    "victim_id": "SYN-00718",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00719",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00720",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.99
+  },
+  {
+    "victim_id": "SYN-00721",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.68
+  },
+  {
+    "victim_id": "SYN-00722",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00723",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.2
+  },
+  {
+    "victim_id": "SYN-00724",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.76
+  },
+  {
+    "victim_id": "SYN-00725",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00726",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00727",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00728",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00729",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.67
+  },
+  {
+    "victim_id": "SYN-00730",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00731",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00732",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00733",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00734",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.84
+  },
+  {
+    "victim_id": "SYN-00735",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.98
+  },
+  {
+    "victim_id": "SYN-00736",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.19
+  },
+  {
+    "victim_id": "SYN-00737",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00738",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00739",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00740",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00741",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.55
+  },
+  {
+    "victim_id": "SYN-00742",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.1
+  },
+  {
+    "victim_id": "SYN-00743",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.77
+  },
+  {
+    "victim_id": "SYN-00744",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.53
+  },
+  {
+    "victim_id": "SYN-00745",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00746",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.22
+  },
+  {
+    "victim_id": "SYN-00747",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.59
+  },
+  {
+    "victim_id": "SYN-00748",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00749",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00750",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.07
+  },
+  {
+    "victim_id": "SYN-00751",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7
+  },
+  {
+    "victim_id": "SYN-00752",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00753",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00754",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.02
+  },
+  {
+    "victim_id": "SYN-00755",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 8.19
+  },
+  {
+    "victim_id": "SYN-00756",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00757",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00758",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00759",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.39
+  },
+  {
+    "victim_id": "SYN-00760",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.01
+  },
+  {
+    "victim_id": "SYN-00761",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.25
+  },
+  {
+    "victim_id": "SYN-00762",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.69
+  },
+  {
+    "victim_id": "SYN-00763",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00764",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.62
+  },
+  {
+    "victim_id": "SYN-00765",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00766",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.91
+  },
+  {
+    "victim_id": "SYN-00767",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.89
+  },
+  {
+    "victim_id": "SYN-00768",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00769",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00770",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00771",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.8
+  },
+  {
+    "victim_id": "SYN-00772",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00773",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.12
+  },
+  {
+    "victim_id": "SYN-00774",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00775",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00776",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00777",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.2
+  },
+  {
+    "victim_id": "SYN-00778",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00779",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.69
+  },
+  {
+    "victim_id": "SYN-00780",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00781",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00782",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.17
+  },
+  {
+    "victim_id": "SYN-00783",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00784",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.94
+  },
+  {
+    "victim_id": "SYN-00785",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.01
+  },
+  {
+    "victim_id": "SYN-00786",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.6
+  },
+  {
+    "victim_id": "SYN-00787",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00788",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.03
+  },
+  {
+    "victim_id": "SYN-00789",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.01
+  },
+  {
+    "victim_id": "SYN-00790",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00791",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.97
+  },
+  {
+    "victim_id": "SYN-00792",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00793",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.51
+  },
+  {
+    "victim_id": "SYN-00794",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00795",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.73
+  },
+  {
+    "victim_id": "SYN-00796",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.79
+  },
+  {
+    "victim_id": "SYN-00797",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.04
+  },
+  {
+    "victim_id": "SYN-00798",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00799",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.73
+  },
+  {
+    "victim_id": "SYN-00800",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00801",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00802",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.03
+  },
+  {
+    "victim_id": "SYN-00803",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00804",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.29
+  },
+  {
+    "victim_id": "SYN-00805",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00806",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 5.9
+  },
+  {
+    "victim_id": "SYN-00807",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00808",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.65
+  },
+  {
+    "victim_id": "SYN-00809",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.43
+  },
+  {
+    "victim_id": "SYN-00810",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00811",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00812",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.61
+  },
+  {
+    "victim_id": "SYN-00813",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00814",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.51
+  },
+  {
+    "victim_id": "SYN-00815",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00816",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.64
+  },
+  {
+    "victim_id": "SYN-00817",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.65
+  },
+  {
+    "victim_id": "SYN-00818",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.13
+  },
+  {
+    "victim_id": "SYN-00819",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.71
+  },
+  {
+    "victim_id": "SYN-00820",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.51
+  },
+  {
+    "victim_id": "SYN-00821",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.02
+  },
+  {
+    "victim_id": "SYN-00822",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.62
+  },
+  {
+    "victim_id": "SYN-00823",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00824",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.74
+  },
+  {
+    "victim_id": "SYN-00825",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00826",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00827",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.55
+  },
+  {
+    "victim_id": "SYN-00828",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00829",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 8.09
+  },
+  {
+    "victim_id": "SYN-00830",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.86
+  },
+  {
+    "victim_id": "SYN-00831",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.58
+  },
+  {
+    "victim_id": "SYN-00832",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00833",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00834",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.92
+  },
+  {
+    "victim_id": "SYN-00835",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00836",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.32
+  },
+  {
+    "victim_id": "SYN-00837",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00838",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00839",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.05
+  },
+  {
+    "victim_id": "SYN-00840",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.47
+  },
+  {
+    "victim_id": "SYN-00841",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00842",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.66
+  },
+  {
+    "victim_id": "SYN-00843",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.64
+  },
+  {
+    "victim_id": "SYN-00844",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00845",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.14
+  },
+  {
+    "victim_id": "SYN-00846",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.02
+  },
+  {
+    "victim_id": "SYN-00847",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 6.77
+  },
+  {
+    "victim_id": "SYN-00848",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00849",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.42
+  },
+  {
+    "victim_id": "SYN-00850",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00851",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00852",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00853",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.79
+  },
+  {
+    "victim_id": "SYN-00854",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00855",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.41
+  },
+  {
+    "victim_id": "SYN-00856",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00857",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00858",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00859",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.81
+  },
+  {
+    "victim_id": "SYN-00860",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00861",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00862",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.36
+  },
+  {
+    "victim_id": "SYN-00863",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.13
+  },
+  {
+    "victim_id": "SYN-00864",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00865",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.63
+  },
+  {
+    "victim_id": "SYN-00866",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00867",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.22
+  },
+  {
+    "victim_id": "SYN-00868",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00869",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.52
+  },
+  {
+    "victim_id": "SYN-00870",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.99
+  },
+  {
+    "victim_id": "SYN-00871",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.61
+  },
+  {
+    "victim_id": "SYN-00872",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00873",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.73
+  },
+  {
+    "victim_id": "SYN-00874",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00875",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.67
+  },
+  {
+    "victim_id": "SYN-00876",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00877",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.27
+  },
+  {
+    "victim_id": "SYN-00878",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.25
+  },
+  {
+    "victim_id": "SYN-00879",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.57
+  },
+  {
+    "victim_id": "SYN-00880",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.38
+  },
+  {
+    "victim_id": "SYN-00881",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00882",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00883",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00884",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00885",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.18
+  },
+  {
+    "victim_id": "SYN-00886",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.67
+  },
+  {
+    "victim_id": "SYN-00887",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.69
+  },
+  {
+    "victim_id": "SYN-00888",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00889",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.37
+  },
+  {
+    "victim_id": "SYN-00890",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00891",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00892",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.34
+  },
+  {
+    "victim_id": "SYN-00893",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00894",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.8
+  },
+  {
+    "victim_id": "SYN-00895",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.69
+  },
+  {
+    "victim_id": "SYN-00896",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00897",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.46
+  },
+  {
+    "victim_id": "SYN-00898",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.18
+  },
+  {
+    "victim_id": "SYN-00899",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.64
+  },
+  {
+    "victim_id": "SYN-00900",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00901",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00902",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00903",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00904",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.02
+  },
+  {
+    "victim_id": "SYN-00905",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.38
+  },
+  {
+    "victim_id": "SYN-00906",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00907",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.56
+  },
+  {
+    "victim_id": "SYN-00908",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.89
+  },
+  {
+    "victim_id": "SYN-00909",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00910",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00911",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6
+  },
+  {
+    "victim_id": "SYN-00912",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00913",
+    "eligible": true,
+    "gas_used": 310478,
+    "tx_ms": 5.08
+  },
+  {
+    "victim_id": "SYN-00914",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00915",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.63
+  },
+  {
+    "victim_id": "SYN-00916",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00917",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.8
+  },
+  {
+    "victim_id": "SYN-00918",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.71
+  },
+  {
+    "victim_id": "SYN-00919",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.74
+  },
+  {
+    "victim_id": "SYN-00920",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.4
+  },
+  {
+    "victim_id": "SYN-00921",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00922",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.59
+  },
+  {
+    "victim_id": "SYN-00923",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00924",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00925",
+    "eligible": true,
+    "gas_used": 310478,
+    "tx_ms": 7.98
+  },
+  {
+    "victim_id": "SYN-00926",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7
+  },
+  {
+    "victim_id": "SYN-00927",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00928",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00929",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00930",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 9.14
+  },
+  {
+    "victim_id": "SYN-00931",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.47
+  },
+  {
+    "victim_id": "SYN-00932",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00933",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.32
+  },
+  {
+    "victim_id": "SYN-00934",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.61
+  },
+  {
+    "victim_id": "SYN-00935",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00936",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.49
+  },
+  {
+    "victim_id": "SYN-00937",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00938",
+    "eligible": true,
+    "gas_used": 310478,
+    "tx_ms": 5.88
+  },
+  {
+    "victim_id": "SYN-00939",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.42
+  },
+  {
+    "victim_id": "SYN-00940",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.38
+  },
+  {
+    "victim_id": "SYN-00941",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.18
+  },
+  {
+    "victim_id": "SYN-00942",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00943",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.88
+  },
+  {
+    "victim_id": "SYN-00944",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00945",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.84
+  },
+  {
+    "victim_id": "SYN-00946",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00947",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00948",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00949",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00950",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.94
+  },
+  {
+    "victim_id": "SYN-00951",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00952",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00953",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.37
+  },
+  {
+    "victim_id": "SYN-00954",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.7
+  },
+  {
+    "victim_id": "SYN-00955",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.83
+  },
+  {
+    "victim_id": "SYN-00956",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00957",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.09
+  },
+  {
+    "victim_id": "SYN-00958",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.13
+  },
+  {
+    "victim_id": "SYN-00959",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.8
+  },
+  {
+    "victim_id": "SYN-00960",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00961",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00962",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 7.9
+  },
+  {
+    "victim_id": "SYN-00963",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00964",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.93
+  },
+  {
+    "victim_id": "SYN-00965",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00966",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.71
+  },
+  {
+    "victim_id": "SYN-00967",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 5.83
+  },
+  {
+    "victim_id": "SYN-00968",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00969",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.84
+  },
+  {
+    "victim_id": "SYN-00970",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00971",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00972",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.58
+  },
+  {
+    "victim_id": "SYN-00973",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00974",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00975",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.03
+  },
+  {
+    "victim_id": "SYN-00976",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 6.81
+  },
+  {
+    "victim_id": "SYN-00977",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.94
+  },
+  {
+    "victim_id": "SYN-00978",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00979",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00980",
+    "eligible": true,
+    "gas_used": 310466,
+    "tx_ms": 6.81
+  },
+  {
+    "victim_id": "SYN-00981",
+    "eligible": true,
+    "gas_used": 310502,
+    "tx_ms": 6.11
+  },
+  {
+    "victim_id": "SYN-00982",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00983",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00984",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 7.17
+  },
+  {
+    "victim_id": "SYN-00985",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 6.66
+  },
+  {
+    "victim_id": "SYN-00986",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 7.17
+  },
+  {
+    "victim_id": "SYN-00987",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00988",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00989",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 7.39
+  },
+  {
+    "victim_id": "SYN-00990",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00991",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.88
+  },
+  {
+    "victim_id": "SYN-00992",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00993",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00994",
+    "eligible": true,
+    "gas_used": 310490,
+    "tx_ms": 5.77
+  },
+  {
+    "victim_id": "SYN-00995",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.39
+  },
+  {
+    "victim_id": "SYN-00996",
+    "eligible": true,
+    "gas_used": 310514,
+    "tx_ms": 5.56
+  },
+  {
+    "victim_id": "SYN-00997",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00998",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-00999",
+    "eligible": false
+  },
+  {
+    "victim_id": "SYN-01000",
+    "eligible": true,
+    "gas_used": 310526,
+    "tx_ms": 5.76
+  }
+]
