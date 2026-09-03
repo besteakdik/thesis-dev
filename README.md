@@ -27,23 +27,38 @@ data/               — Synthetic data generation (CTGAN)
 zkp-circuits/       — ZKP circuit definition (Circom/snarkjs)
 contracts/          — Solidity smart contracts (Verifier + Registry)
 identity/           — DID/VC simulation
-blockchain/         — Quorum network setup
-app-bridge/         — Integration layer
-benchmarks/         — Performance evaluation
-baseline-central/   — Centralized baseline for comparison
-scenarios/          — End-to-end test scenarios
 ```
 
-## Status
+## Quick Start
 
-| Module | Status |
-|--------|--------|
-| data/ | Done — 1000 synthetic records via CTGAN |
-| zkp-circuits/ | Done — circuit compiled, 18 constraints |
-| contracts/ | In progress |
-| identity/ | Planned |
-| blockchain/ | Planned |
-| app-bridge/ | Planned |
+**1. Generate synthetic victim data**
+```bash
+cd data
+source .venv/bin/activate
+python scripts/generate_ctgan.py
+```
+
+**2. Generate a ZKP proof**
+```bash
+cd zkp-circuits
+node generate_proof.js
+```
+
+**3. Deploy contracts and submit proof to blockchain**
+```bash
+cd contracts
+npx hardhat node --port 8545   # run in a separate terminal
+npx hardhat run scripts/deploy.js --network localhost
+npx hardhat run scripts/submit_proof.js --network localhost
+```
+
+**4. DID / Verifiable Credential demo**
+```bash
+cd identity
+.venv/bin/python3.11 demo.py
+```
+
+Each step outputs only the commitment value — personal data (age, needs score) is never printed.
 
 ## Tech Stack
 
