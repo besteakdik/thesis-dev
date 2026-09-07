@@ -11,6 +11,7 @@
 const snarkjs = require("snarkjs");
 const fs = require("fs");
 const path = require("path");
+const { buildPoseidon } = require("circomlibjs");
 
 // dosya yolları
 const WASM_PATH = "output/disaster_verify_js/disaster_verify.wasm";
@@ -81,23 +82,29 @@ async function generateAndVerify(victimId, inputs) {
     return { proof, annotatedPublic, isValid };
 }
 
-// CSV'den rastgele kayıt seç
-const victim = randomVictimFromCSV();
-const age          = parseInt(victim.age);
-const needs_score  = parseInt(victim.needs_score);
-const injury_level = parseInt(victim.injury_level);
-const threshold    = needsThreshold(injury_level);
-const salt         = Math.floor(Math.random() * 100000);
-const commitment   = age + needs_score + salt;
+// CSV'den rastgele kayıt seç, Poseidon commitment hesapla
+(async () => {
+    const poseidon = await buildPoseidon();
 
-console.log(`\n[*] seçilen kayıt: ${victim.victim_id}  (age ve score gizli kalacak)`);
-console.log(`    injury_level: ${injury_level}  →  needs_threshold: ${threshold}`);
+    const victim       = randomVictimFromCSV();
+    const age          = parseInt(victim.age);
+    const needs_score  = parseInt(victim.needs_score);
+    const injury_level = parseInt(victim.injury_level);
+    const threshold    = needsThreshold(injury_level);
+    // salt: büyük rastgele sayı (BN254 skaler alanına uygun)
+    const salt         = BigInt(Math.floor(Math.random() * 1e15));
+    const commitment   = poseidon.F.toString(poseidon([age, needs_score, salt]));
 
-generateAndVerify(victim.victim_id, {
-    age:             String(age),
-    needs_score:     String(needs_score),
-    salt:            String(salt),
-    min_age:         String(MIN_AGE),
-    needs_threshold: String(threshold),
-    commitment:      String(commitment),
-}).then(() => process.exit(0)).catch(console.error);
+    console.log(`\n[*] seçilen kayıt: ${victim.victim_id}  (age ve score gizli kalacak)`);
+    console.log(`    injury_level: ${injury_level}  →  needs_threshold: ${threshold}`);
+
+    await generateAndVerify(victim.victim_id, {
+        age:             String(age),
+        needs_score:     String(needs_score),
+        salt:            salt.toString(),
+        min_age:         String(MIN_AGE),
+        needs_threshold: String(threshold),
+        commitment,
+    });
+    process.exit(0);
+})().catch(console.error);

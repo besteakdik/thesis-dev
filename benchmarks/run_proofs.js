@@ -13,6 +13,7 @@
 const fs      = require("fs");
 const path    = require("path");
 const snarkjs = require(path.join(__dirname, "../zkp-circuits/node_modules/snarkjs"));
+const { buildPoseidon } = require(path.join(__dirname, "../zkp-circuits/node_modules/circomlibjs"));
 
 const WASM_PATH = path.join(__dirname, "../zkp-circuits/output/disaster_verify_js/disaster_verify.wasm");
 const ZKEY_PATH = path.join(__dirname, "../zkp-circuits/output/disaster_verify.zkey");
@@ -43,6 +44,7 @@ function proofSizeBytes(proof) {
 }
 
 async function main() {
+    const poseidon = await buildPoseidon();
     const victims = loadCSV();
     const vkey    = JSON.parse(fs.readFileSync(VKEY_PATH));
     const results = [];
@@ -55,13 +57,13 @@ async function main() {
         const needs_score   = parseInt(v.needs_score);
         const injury_level  = parseInt(v.injury_level);
         const threshold     = needsThreshold(injury_level);
-        const salt          = Math.floor(Math.random() * 1e9);
-        const commitment    = age + needs_score + salt;
+        const salt          = BigInt(Math.floor(Math.random() * 1e15));
+        const commitment    = poseidon.F.toString(poseidon([age, needs_score, salt]));
 
         const inputs = {
             age:             String(age),
             needs_score:     String(needs_score),
-            salt:            String(salt),
+            salt:            salt.toString(),
             min_age:         String(MIN_AGE),
             needs_threshold: String(threshold),
             commitment:      String(commitment),

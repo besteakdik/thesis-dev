@@ -2,6 +2,7 @@ const hre = require("hardhat");
 const snarkjs = require("snarkjs");
 const fs = require("fs");
 const path = require("path");
+const { buildPoseidon } = require(path.resolve("../zkp-circuits/node_modules/circomlibjs"));
 
 async function main() {
     // deploy edilmiş kontrat adresleri
@@ -12,14 +13,20 @@ async function main() {
     const zkeyPath = path.resolve("../zkp-circuits/output/disaster_verify.zkey");
     const vkeyPath = path.resolve("../zkp-circuits/output/verification_key.json");
 
+    // Poseidon commitment hesapla
+    const poseidon = await buildPoseidon();
+    const age = 45, needs_score = 75;
+    const salt = BigInt(Math.floor(Math.random() * 1e15));
+    const commitment = poseidon.F.toString(poseidon([age, needs_score, salt]));
+
     // örnek afetzede girdisi
     const input = {
-        age:             "45",
-        needs_score:     "75",
-        salt:            "12345",
+        age:             String(age),
+        needs_score:     String(needs_score),
+        salt:            salt.toString(),
         min_age:         "18",
         needs_threshold: "30",
-        commitment:      "12465",
+        commitment,
     };
 
     console.log("[*] zkp kanıtı üretiliyor...");
@@ -52,8 +59,8 @@ async function main() {
     console.log(`[+] işlem onaylandı — blok: ${receipt.blockNumber}`);
 
     // kaydı sorgula
-    const commitment = pubSignals[3];
-    const record = await registry.getRecord(commitment);
+    const commitmentKey = pubSignals[3];
+    const record = await registry.getRecord(commitmentKey);
     console.log(`[+] blockchain kaydı:`);
     console.log(`    commitment : ${record.commitment}`);
     console.log(`    timestamp  : ${new Date(Number(record.timestamp) * 1000).toISOString()}`);

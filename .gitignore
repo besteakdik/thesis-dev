@@ -17,6 +17,14 @@ zkp-circuits/output/
 
 # macos
 .DS_Store
+
+# geliştirme notları ve sunum — repoya dahil değil
+NOTLAR.md
+NOTLAR-2.md
+SUNUM.md
+SUNUM_HOCASE.docx
+tez_hakem_raporu_BesteAkdik*.md
+memory/
 deployed_addresses.json
 zkp-circuits/proof_log.json
 zkp-circuits/input.json
