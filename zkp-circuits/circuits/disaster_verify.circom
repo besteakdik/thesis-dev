@@ -24,6 +24,7 @@ pragma circom 2.0.0;
 
 include "circomlib/circuits/comparators.circom";
 include "circomlib/circuits/poseidon.circom";
+include "circomlib/circuits/bitify.circom";
 
 template DisasterVerify() {
     // gizli girdiler
@@ -38,6 +39,14 @@ template DisasterVerify() {
 
     // çıktı
     signal output is_eligible;
+
+    // aralık kısıtları: age ∈ [0,255], needs_score ∈ [0,127]
+    // bu kısıtlar olmadan saldırgan BN254 alan elemanı boyutunda girdi sunabilir;
+    // Num2Bits witness üretim aşamasında bu değerlerin n-bit içinde olduğunu zorlar.
+    component age_bits   = Num2Bits(8);
+    component score_bits = Num2Bits(7);
+    age_bits.in   <== age;
+    score_bits.in <== needs_score;
 
     // kısıt 1: age >= min_age
     component age_check = GreaterEqThan(8);
