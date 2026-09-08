@@ -47,6 +47,10 @@ contract DisasterRegistry {
         uint[2]    calldata proof_c,
         uint[4]    calldata pubSignals
     ) external {
+        // politika eşiklerini zorla: prover kendi eşiğini seçemesin
+        require(pubSignals[1] >= 18, "min_age politika esiginin altinda");
+        require(pubSignals[2] >= 10, "needs_threshold politika esiginin altinda");
+
         // zkp kanıtını doğrula
         bool valid = verifier.verifyProof(proof_a, proof_b, proof_c, pubSignals);
         require(valid, "gecersiz zkp kaniti");
